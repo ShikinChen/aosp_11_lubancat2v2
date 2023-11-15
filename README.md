@@ -34,8 +34,9 @@ pyenv install --list
 ```
 pyenv install 2.7.18
 ```
-并且设定当前目录使用2.7.18版本
+并且在aosp目录使用2.7.18版本
 ```
+cd android-r-11.0
 pyenv local 2.7.18
 ```
 
