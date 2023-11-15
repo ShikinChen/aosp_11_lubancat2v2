@@ -1,0 +1,2 @@
+export PROJECT_TOP=/Volumes/mac_disk_01/aosp_11_lubancat2v2/android-r-11.0
+export KERNEL_ARCH=arm64
